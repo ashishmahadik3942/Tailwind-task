@@ -1381,6 +1381,10 @@ h2 {
     display: flex;
   }
 
+  .sm\:hidden {
+    display: none;
+  }
+
   .sm\:w-\[72\.1875rem\] {
     width: 72.1875rem;
   }
